@@ -1,0 +1,10 @@
+.app-photos-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+@media screen and (max-width: 525px) {
+    .app-photos-list {
+        grid-template-columns: 1fr;
+    }
+}

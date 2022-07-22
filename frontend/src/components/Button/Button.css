@@ -1,0 +1,12 @@
+.app-search-button {
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    width: fit-content;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

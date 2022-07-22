@@ -1,0 +1,12 @@
+.app-photo {
+    position: relative;
+    border: 1px solid grey;
+}
+
+.app-photo-name {
+    position: absolute;
+    bottom: 10px;
+    left: 2px;
+    color: white;
+    font-size: 16px;
+}
